@@ -1,0 +1,7 @@
+\*\* Run this command in terminal in which your project is there
+
+// Installing Flask and google geenrative ai to call Gemini Flash 2.0
+-- pip install flask google-generativeai
+
+// To Run Python File
+-- python backend.py
